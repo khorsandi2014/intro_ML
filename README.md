@@ -15,8 +15,8 @@ by Ray Khorsandi
 | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_Transfer_Learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_Transfer_Learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_Transfer_Learning.ipynb) |
 | 12 | n/a | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_FeatEng_Optim.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_FeatEng_Optim.ipynb) |
 | 13 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_Sequence_Classification.ipynb) | n/a | n/a |
-| TorchText Word Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_TorchText_Word_Embeddings.ipynb) | n/a | n/a |
-| 14 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_JIT.ipynb) | n/a | n/a |
+| 14 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_TorchText_Word_Embeddings.ipynb) | n/a | n/a |
+| 15 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_JIT.ipynb) | n/a | n/a |
 
 
 
