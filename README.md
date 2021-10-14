@@ -3,11 +3,8 @@ by Ray Khorsandi
 | Topic | Demo | Exercise | Solution |
 |---------|-------------|-------------|-------------|
 | Jupyter Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Jupyter_demo.ipynb) | n/a | n/a |
-
 | SF_vs_NY | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/SF_vs_NY_demo.ipynb) | n/a | n/a |
-
 | Pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Pandas_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Pandas_exercise.ipynb) | n/a |
-
 | Scikit Learn| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Scikit-learn_demo.ipynb) | n/a | n/a |
 
 
