@@ -8,10 +8,14 @@ by Ray Khorsandi
 | Scikit Learn| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Scikit-learn_demo.ipynb) | n/a | n/a |
 | Linear_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Linear_Regression_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Linear_Regression_exercise.ipynb) | n/a |
 | Decision_Trees | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Decision_Trees_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Decision_Trees_exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Decision_Trees_Solution.ipynb) |
+| Titanic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Titanic_Demo+Exercise.ipynb) | n/a | n/a |
+| k-Nearest_Neighbors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/k-Nearest_Neighbors_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/k-Nearest_Neighbors_exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/k-Nearest_Neighbors_Solution.ipynb) |
+
+
 
 | Logistic_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_Pandas.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_Pandas.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_Pandas.ipynb) |
 
-| k-Nearest_Neighbors | n/a | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_Classifier_nnLinear.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_Classifier_nnLinear.ipynb) |
+
 
 
 
